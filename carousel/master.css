@@ -1,0 +1,18 @@
+.slider__container {
+  overflow: hidden;
+  margin: 0 auto;
+  background: rgb(185, 210, 22);
+}
+
+.slider__box {
+  width: 10000px;
+}
+
+.slider__box img {
+  margin-left: -4px;
+}
+
+.slider__box img:first-child {
+  margin-left: 0;
+  background-color: rgb(164, 227, 12);
+}
